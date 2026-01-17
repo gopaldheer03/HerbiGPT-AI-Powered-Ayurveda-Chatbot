@@ -202,7 +202,7 @@ function App() {
               <div className="contact-item">
                 <h3>💬 Social Media</h3>
                 <p>
-                  <a href="https://github.com/gopaldheer03" target="_blank" rel="noopener noreferrer">GitHub: @Gosling-dude</a>
+                  <a href="https://github.com/gopaldheer03" target="_blank" rel="noopener noreferrer">GitHub: @gopaldheer03</a>
                 </p>
               </div>
               <div className="contact-item">
