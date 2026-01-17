@@ -1,6 +1,6 @@
 # 🌿 HerbiGPT - AI-Powered Ayurveda Chatbot
 
-[🔗 have a look](https://herbigpt.netlify.app/)
+[🔗 have a look](https://herbigptchat.netlify.app/)
 
 HerbiGPT is an AI-powered chatbot tailored for Ayurveda enthusiasts. Using advanced **RAG (Retrieval Augmented Generation)** techniques, it provides accurate and reliable responses about Ayurvedic practices, herbs, remedies, and lifestyle guidance. Whether you're a seasoned practitioner or just curious about holistic health, **HerbiGPT** is your go-to companion for natural wellness.
 
