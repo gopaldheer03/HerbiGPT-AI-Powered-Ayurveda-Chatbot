@@ -48,7 +48,7 @@ function App() {
             <p className="brand-subtitle">Your Holistic Wellness Guide</p>
           </div>
           <div className="nav-buttons">
-            <a href="https://github.com/Gosling-dude/HerbiGPT-AI-Powered-Ayurveda-Chatbot" target="_blank" rel="noopener noreferrer" className="nav-btn github-btn">
+            <a href="https://github.com/gopaldheer03/HerbiGPT-AI-Powered-Ayurveda-Chatbot" target="_blank" rel="noopener noreferrer" className="nav-btn github-btn">
               <span>GitHub</span>
             </a>
             <button className="nav-btn contact-btn" onClick={() => {
@@ -78,7 +78,7 @@ function App() {
               <p className="hero-sub">Ask about Ayurveda, herbs, natural remedies, and healthy living. Quick, friendly, and evidence-oriented answers.</p>
               <div className="hero-ctas">
                 <button className="submit-btn hero-ask" onClick={() => textareaRef.current && textareaRef.current.focus()}>✨ Ask HerbiGPT</button>
-                <a className="nav-btn hero-github" href="https://github.com/Gosling-dude/HerbiGPT-AI-Powered-Ayurveda-Chatbot" target="_blank" rel="noreferrer">GitHub</a>
+                <a className="nav-btn hero-github" href="https://github.com/gopaldheer03/HerbiGPT-AI-Powered-Ayurveda-Chatbot" target="_blank" rel="noreferrer">GitHub</a>
               </div>
             </div>
           </div>
@@ -202,13 +202,13 @@ function App() {
               <div className="contact-item">
                 <h3>💬 Social Media</h3>
                 <p>
-                  <a href="https://github.com/Gosling-dude" target="_blank" rel="noopener noreferrer">GitHub: @Gosling-dude</a>
+                  <a href="https://github.com/gopaldheer03" target="_blank" rel="noopener noreferrer">GitHub: @Gosling-dude</a>
                 </p>
               </div>
               <div className="contact-item">
                 <h3>🔗 Project</h3>
                 <p>
-                  <a href="https://github.com/Gosling-dude/HerbiGPT-AI-Powered-Ayurveda-Chatbot" target="_blank" rel="noopener noreferrer">HerbiGPT Repository</a>
+                  <a href="https://github.com/gopaldheer03/HerbiGPT-AI-Powered-Ayurveda-Chatbot" target="_blank" rel="noopener noreferrer">HerbiGPT Repository</a>
                 </p>
               </div>
               <div className="contact-item">
