@@ -86,7 +86,7 @@ Utilizes Retrieval Augmented Generation (RAG) and modern LLM pipelines for conte
 
 ### 📁 Clone the repository
 ```bash
-git clone https://github.com/Gosling-dude/HerbiGPT---Your-Holistic-Wellness-Guide.git
+https://github.com/gopaldheer03/HerbiGPT-AI-Powered-Ayurveda-Chatbot.git
 cd HerbiGPT---Your-Holistic-Wellness-Guide
 
 ```
@@ -159,12 +159,12 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📜 **License**
 MIT License — Feel free to use, modify, and share.
 ## 💬 **Contact**
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sumit-chauhan-006399257/) or drop a message if you'd like to collaborate!
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/gopal-dheer-3a9631246/) or drop a message if you'd like to collaborate!
 
 
 ## 👥 Contributors
 
-### 🧠 **Sumit Chauhan**  
+### 🧠 **Gopal Dheer**  
 **Role:** Project Lead & AI Integration Engineer  
 **Contributions:**  
 - Designed and implemented the **RAG (Retrieval Augmented Generation)** system  
@@ -173,12 +173,4 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sumit-ch
 - Led system design and overall project coordination  
 
 ---
-
-### 💻 **Xaomiung Codie**  
-**Role:** Frontend Developer & System Integrator  
-**Contributions:**  
-- Developed an elegant **React-based frontend** for smooth user interaction  
-- Connected **UI queries** to backend AI logic via **Express.js**  
-- Implemented real-time **response rendering** and clean UI display  
-- Enhanced overall user experience and app performance  
 
